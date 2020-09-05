@@ -1,6 +1,6 @@
 # GUSEC Website source
 
-This is the source for the Glasgow Univeristy Security Society.
+This is the source for the [Glasgow Univeristy Security Society](https://gusecurity.github.io/).
 
 Our discord:
 
