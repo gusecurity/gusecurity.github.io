@@ -18,7 +18,7 @@ We'll probably lay said activities out in a different post, so watch out for tha
 
 We're the Glasgow Unversity Cyber-Security Society, so you can expect to gain knowledge and insight into one  of the most saught-after career paths in the tech industry right now through talks, workshops, and socials. But not just that, we pride ourselves on being a welcoming and helpful community with shared values and interests. 
 
-Over the coming weeks and years, we hope to foster this community into something we can really be proud of and something that hopefully out-lasts our time in the university and gives you skills and friendships that outlasts yours. 
+Over the coming weeks and years, we hope to foster this community into something we can really be proud of and something that hopefully out-lasts our time in the university and gives you skills and friendships that outlast yours. 
 
 To get a better understanding of how our society is going to operate from now on, check out the new [constitution]({{ site.baseurl }}{% link files/constitution.pdf %})
 

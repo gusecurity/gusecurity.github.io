@@ -1,0 +1,15 @@
+---
+layout: post
+title: "x86 101"
+subtitle: "An Introduction To Assembly"
+date: 2023-01-27 19:13:13 -0000
+background: '/img/posts/06.jpg'
+---
+
+## Our First Assembly Workhop
+
+Hey All, welcome to the first workshop we've had since our reformation. Today, we're covering x86 assembly, which will come in handy for any blue-teaming or malware analysis you end up doing in your careers. To get the challenges for today's workshop follow [this link](https://github.com/gusecurity/x86101).
+
+Thanks,
+
+*The GUSEC team*
